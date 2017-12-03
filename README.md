@@ -11,6 +11,6 @@ C program implementing a shell interface that accepts user commands and executes
 - exit: quit the shell
 
 ## SIGNALS
-- Ctrl+D: terminate shell
-- Ctrl+C (SIGINT): kill a program running inside the shell
-- Ctrl+Z (SIGTSTP): ignore the signal
+- Ctrl<D>: terminate shell
+- Ctrl<C> (SIGINT): kill a program running inside the shell
+- Ctrl<Z> (SIGTSTP): ignore the signal
