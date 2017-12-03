@@ -1,4 +1,4 @@
-# simple shell
+# **simple shell**
 C program implementing a shell interface that accepts user commands and executes each command in a separate process. The shell program provides a command prompt, where the user inputs a line of command. The shell is responsible for executing the command.
 
 ## The program accepts the following commands
